@@ -7,13 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8916B86520F20A3000C84AEB /* kk.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8916B86420F20A3000C84AEB /* kk.storyboard */; };
+		8916B86920F2108B00C84AEB /* Person.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8916B86820F2108B00C84AEB /* Person.storyboard */; };
+		8916B86B20F218F000C84AEB /* Third.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8916B86A20F218F000C84AEB /* Third.storyboard */; };
 		8935CE3720EE06BE000377C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8935CE3620EE06BE000377C2 /* AppDelegate.swift */; };
 		8935CE3920EE06BE000377C2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8935CE3820EE06BE000377C2 /* ViewController.swift */; };
 		8935CE3C20EE06BE000377C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8935CE3A20EE06BE000377C2 /* Main.storyboard */; };
-		8935CE3E20EE06BE000377C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8935CE3D20EE06BE000377C2 /* Assets.xcassets */; };
 		8935CE4120EE06BE000377C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8935CE3F20EE06BE000377C2 /* LaunchScreen.storyboard */; };
 		8935CE4C20EE06BE000377C2 /* foodmanager1_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8935CE4B20EE06BE000377C2 /* foodmanager1_1Tests.swift */; };
 		8935CE5720EE06BE000377C2 /* foodmanager1_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8935CE5620EE06BE000377C2 /* foodmanager1_1UITests.swift */; };
+		8935CE6720EE084A000377C2 /* images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8935CE6620EE084A000377C2 /* images.xcassets */; };
+		8935CE6D20F19EFA000377C2 /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8935CE6C20F19EFA000377C2 /* Second.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,11 +38,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8916B86320F2064E00C84AEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = foodmanager1.1.xcodeproj/FoodManagerttttt/FoodManager/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		8916B86420F20A3000C84AEB /* kk.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = kk.storyboard; sourceTree = "<group>"; };
+		8916B86820F2108B00C84AEB /* Person.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Person.storyboard; sourceTree = "<group>"; };
+		8916B86A20F218F000C84AEB /* Third.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Third.storyboard; sourceTree = "<group>"; };
 		8935CE3320EE06BE000377C2 /* foodmanager1.1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = foodmanager1.1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8935CE3620EE06BE000377C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8935CE3820EE06BE000377C2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		8935CE3B20EE06BE000377C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8935CE3D20EE06BE000377C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8935CE4020EE06BE000377C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8935CE4220EE06BE000377C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8935CE4720EE06BE000377C2 /* foodmanager1.1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = foodmanager1.1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,6 +54,8 @@
 		8935CE5220EE06BE000377C2 /* foodmanager1.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = foodmanager1.1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8935CE5620EE06BE000377C2 /* foodmanager1_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = foodmanager1_1UITests.swift; sourceTree = "<group>"; };
 		8935CE5820EE06BE000377C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8935CE6620EE084A000377C2 /* images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = images.xcassets; sourceTree = "<group>"; };
+		8935CE6C20F19EFA000377C2 /* Second.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Second.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,9 +109,14 @@
 				8935CE3620EE06BE000377C2 /* AppDelegate.swift */,
 				8935CE3820EE06BE000377C2 /* ViewController.swift */,
 				8935CE3A20EE06BE000377C2 /* Main.storyboard */,
-				8935CE3D20EE06BE000377C2 /* Assets.xcassets */,
+				8916B86320F2064E00C84AEB /* Assets.xcassets */,
 				8935CE3F20EE06BE000377C2 /* LaunchScreen.storyboard */,
 				8935CE4220EE06BE000377C2 /* Info.plist */,
+				8935CE6620EE084A000377C2 /* images.xcassets */,
+				8935CE6C20F19EFA000377C2 /* Second.storyboard */,
+				8916B86420F20A3000C84AEB /* kk.storyboard */,
+				8916B86820F2108B00C84AEB /* Person.storyboard */,
+				8916B86A20F218F000C84AEB /* Third.storyboard */,
 			);
 			path = foodmanager1.1;
 			sourceTree = "<group>";
@@ -236,8 +250,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8935CE4120EE06BE000377C2 /* LaunchScreen.storyboard in Resources */,
-				8935CE3E20EE06BE000377C2 /* Assets.xcassets in Resources */,
+				8916B86520F20A3000C84AEB /* kk.storyboard in Resources */,
+				8935CE6720EE084A000377C2 /* images.xcassets in Resources */,
+				8916B86B20F218F000C84AEB /* Third.storyboard in Resources */,
+				8935CE6D20F19EFA000377C2 /* Second.storyboard in Resources */,
 				8935CE3C20EE06BE000377C2 /* Main.storyboard in Resources */,
+				8916B86920F2108B00C84AEB /* Person.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,7 +432,6 @@
 		8935CE5C20EE06BE000377C2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4FN548UKHS;
 				INFOPLIST_FILE = foodmanager1.1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -427,7 +444,6 @@
 		8935CE5D20EE06BE000377C2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 4FN548UKHS;
 				INFOPLIST_FILE = foodmanager1.1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -514,6 +530,7 @@
 				8935CE5D20EE06BE000377C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8935CE5E20EE06BE000377C2 /* Build configuration list for PBXNativeTarget "foodmanager1.1Tests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +539,7 @@
 				8935CE6020EE06BE000377C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8935CE6120EE06BE000377C2 /* Build configuration list for PBXNativeTarget "foodmanager1.1UITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +548,7 @@
 				8935CE6320EE06BE000377C2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
